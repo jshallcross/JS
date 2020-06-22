@@ -2,6 +2,12 @@
 .navbar .navbar-collapse {
     text-align: center;
   }
+  .construction {
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 100px;
+  }
 
   /* Title Header */
   .header {
